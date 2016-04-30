@@ -1,0 +1,24 @@
+#matrix
+{
+	width: 540px;
+	height: 550px;
+	border-top: 1px solid #999;
+	border-left: 1px solid #999;	
+}
+
+.cell
+{
+	float: left;
+	width: 25px;
+	height: 25px;	
+	border-bottom: 1px solid #999;
+	border-right: 1px solid #999;	
+}
+
+.active{
+	background-color: grey;
+}
+
+.finish{
+	background: red;
+}
