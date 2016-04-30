@@ -1,4 +1,4 @@
-﻿windows.onload = function()
+﻿window.onload = function()
 {
 function Matrix(containerId,rows,cols){
 	
